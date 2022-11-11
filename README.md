@@ -1,5 +1,5 @@
 # MultimediaIU
-Multimedia i Interficies d'Usuari - udgProjects
+GitHub page link: https://danitur.github.io/MultimediaIU/
 
 
 ## Target user profile
